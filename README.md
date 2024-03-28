@@ -6,6 +6,4 @@
 5. Comment out all the other lines besides the line you want to run in run.sh
 6. If you want to generate a plot, scroll to the bottom of main.py and set the hyperparameter `plot = True` for the task you are running.
 
-Our team name is cse151b251b-wi24-pa4-ado2 <br />
-Our github repo is linked [here](https://github.com/cse151bwi24/cse151b251b-wi24-pa4-ado2)
 
